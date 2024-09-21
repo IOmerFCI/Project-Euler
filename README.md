@@ -1,1 +1,1 @@
-It is a simple solution for project euler question 2. (Im writing this message to make it look crowded :))
+They are simple solutions for project euler questions. (I write this message for just writing :))
